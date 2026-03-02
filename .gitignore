@@ -1,0 +1,5 @@
+*.o
+*.exe
+service_sim
+.vscode/
+.DS_Store

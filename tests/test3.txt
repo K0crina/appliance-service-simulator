@@ -1,0 +1,29 @@
+RECEPTIONER;1;Popescu;Ana;2900101052016;01.09.2020;Bucuresti
+TEHNICIAN;2;Ionescu;Mihai;1800315123016;15.03.2015;Cluj
+TEHNICIAN;3;Stan;Alex;1991010123012;10.10.2018;Ploiesti
+TEHNICIAN;5;Marin;Radu;5010201123459;01.09.2024;Brasov
+SUPERVIZOR;4;Georgescu;Ioana;2971205123451;10.01.2015;Bucuresti
+RECEPTIONER;6;Tudor;Andrei;5100315123457;01.09.2024;Pitesti
+
+2;MasinaSpalat;Bosch
+2;Televizor;LG
+3;Frigider;Samsung
+5;MasinaSpalat;Arctic
+5;Frigider;Arctic
+6;Televizor;LG
+
+MasinaSpalat;Bosch;WashPro;2022;2100;8
+Televizor;LG;Nano;2023;3200;65;inch
+Frigider;Samsung;IceMax;2021;2000;1
+Frigider;Arctic;Cooler;2020;1500;1
+MasinaSpalat;Arctic;Slim;2023;1900;6
+
+1;06.01.2026 09:00:00;MasinaSpalat;Bosch;WashPro;2022;2100;2;1
+2;06.01.2026 09:02:00;Televizor;LG;Nano;2023;3200;3;1
+3;06.01.2026 09:04:00;Frigider;Samsung;IceMax;2021;2000;2;1
+4;06.01.2026 09:06:00;Frigider;Arctic;Cooler;2020;1500;1;1
+5;06.01.2026 09:08:00;MasinaSpalat;Arctic;Slim;2023;1900;4;1
+6;06-01-2026 09:10:00;Frigider;Arctic;Inexistent;2020;1500;3;1
+7;06.01.2026 09:12:00;MasinaSpalat;Bosch;WashPro;2022;2100;6;1
+
+20
